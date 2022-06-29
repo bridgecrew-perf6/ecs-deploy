@@ -1,0 +1,15 @@
+[
+    {
+        "AWS_REGION": "us-east-1",
+        "ECS_CLUSTER": "demo-cluster",
+        "CONTAINER_FAMILY": "demo_flask_app",
+        "CONTAINER_NAME": "demo_flask_app"
+    },
+    {
+        "AWS_PROFILE": "some-profile",
+        "AWS_REGION": "some-region",
+        "ECS_CLUSTER": "some-cluster",
+        "CONTAINER_FAMILY": "some-family",
+        "CONTAINER_NAME": "some-other_app"
+    }
+]
