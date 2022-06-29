@@ -1,5 +1,5 @@
 FROM python:latest
-LABEL maintainer="@JManzur"
+LABEL maintainer="xxxx"
 
 WORKDIR /usr/src/app
 
